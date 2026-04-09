@@ -37,4 +37,4 @@ I decided to implement the Stripe Checkout Session flow instead of Payment Inten
    `python manage.py runserver`
 
 ## Time Spent
-[I spent around 4 hour here to make this assignment , where i used AI only few places like in model.py and test.py ...]
+[I spent around 4 hour here to make this assignment , where i used AI only few places like in model.py and test.py .]
